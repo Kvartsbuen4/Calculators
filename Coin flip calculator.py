@@ -2,6 +2,6 @@
 x = 0.25
 y = 192
 
-# calcilate the probability
+# calculate the probability
 probability = x**y
 print(probability)
